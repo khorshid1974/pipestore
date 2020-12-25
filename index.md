@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/12/25/viber_image_2020-10-20_13-21-53.jpg"
+banner_image: "/uploads/2020/12/25/plumbing-840835_1280.jpg"
 layout: landing-page
 heading: Pipe Store
 partners:
