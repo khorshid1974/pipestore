@@ -17,6 +17,16 @@ fields:
   name: sub_heading
   label: Hero Sub heading
   default: Engineering and Health Sciences
+- name: date_now
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Date Now
+  hidden: false
 - type: file
   name: banner_image
   label: Hero Image
