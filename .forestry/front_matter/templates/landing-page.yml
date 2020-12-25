@@ -27,6 +27,7 @@ fields:
     display_utc: false
   label: Date Now
   hidden: false
+  default: '2020-12-25 12:28:33 +0000'
 - type: file
   name: banner_image
   label: Hero Image
